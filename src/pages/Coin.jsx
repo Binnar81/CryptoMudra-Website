@@ -61,7 +61,7 @@ function Coin() {
                   <span>Price:</span>
                   <p className={"green-text"}>
                     {coin.market_data
-                      ? "$" +
+                      ? "Rs" +
                         numberWithCommas(
                           coin.market_data.current_price.usd.toFixed(2)
                         )
