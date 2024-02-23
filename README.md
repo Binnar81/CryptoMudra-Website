@@ -14,7 +14,7 @@
 
 
 ## Explore the Website:
-https://CryptoMudrawebsite.vercel.app/
+https://crypto-mudra-website.vercel.app/
 
 ## Project Installation Guidelines:
 
